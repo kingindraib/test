@@ -1,0 +1,25 @@
+/*----------css------------*/
+.container{
+	display: block;
+}
+
+.table {
+    background: gray;
+    color: white;
+    size: auto;
+    height: 50%px;
+    width: 50%;
+    text-align: center;
+    margin-left: 233px;
+}
+
+.text {
+    margin-left: 229px;
+    color: rebeccapurple;
+    font-family: poppins;
+    font-size: 50px;
+    margin-bottom: -70px;
+}
+.std{
+	text-align: center;
+}
